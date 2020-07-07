@@ -1,4 +1,4 @@
-The Sonoff Mini is, as the name implies, a very small device, designed to be hidden where there's only supposed to be cables. Since it's not supposed to be visible, it's also designed to easily attach an external button.
+The Sonoff Mini is, as the name implies, a very small device, designed to be hidden where there's only supposed to be cables. Since it's not supposed to be visible, it's also designed to easily attach an external button. WATCH OUT!. There is no galvanic isolation in the power supply as the Sonoff Basic. All 3.3 volt electronics is connected directly to the main power!
 
 Tasmota can be flashed on this device via OTA using the [Sonoff DIY](../Sonoff-DIY.md) feature.
 
